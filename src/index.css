@@ -1,0 +1,47 @@
+# Jabar Health Monitor — konvensi desain
+@theme {
+  --color-brand-50: #eff6ff;
+  --color-brand-100: #dbeafe;
+  --color-brand-200: #bfdbfe;
+  --color-brand-300: #93c5fd;
+  --color-brand-400: #60a5fa;
+  --color-brand-500: #3b82f6;
+  --color-brand-600: #2563eb;
+  --color-brand-700: #1d4ed8;
+  --color-brand-800: #1e40af;
+  --color-brand-900: #1e3a8a;
+
+  /* warna jenis fasilitas (konsisten di seluruh dashboard) */
+  --color-faskes-rsu: #1d4ed8;      /* RS Umum */
+  --color-faskes-rsk: #0f766e;      /* RS Khusus */
+  --color-faskes-rsb: #9333ea;      /* RS Bersalin */
+  --color-faskes-puskesmas: #16a34a;
+  --color-faskes-posyandu: #d97706;
+
+  /* warna status kualitas data */
+  --color-status-valid: #16a34a;
+  --color-status-unverified: #d97706;
+  --color-status-suspected: #dc2626;
+  --color-status-missing: #94a3b8;
+}
+
+@import "tailwindcss";
+
+html {
+  font-family: "Inter", "Segoe UI", system-ui, sans-serif;
+}
+
+body {
+  @apply bg-slate-50 text-slate-800 antialiased;
+}
+
+/* Tooltip Leaflet agar konsisten dengan gaya dashboard */
+.leaflet-container {
+  font-family: inherit;
+}
+.leaflet-tooltip {
+  @apply rounded-md border border-slate-200 bg-white px-2 py-1 text-xs shadow-sm;
+}
+.leaflet-control-attribution {
+  font-size: 10px;
+}

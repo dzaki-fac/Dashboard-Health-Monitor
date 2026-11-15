@@ -1,0 +1,946 @@
+id,kode_provinsi,nama_provinsi,kode_kabupaten_kota,nama_kabupaten_kota,jenis_faskes,jumlah_faskes,satuan,tahun,status_verifikasi,catatan_cleaning,jumlah_faskes_viz
+1,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT UMUM,9,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+2,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT KHUSUS,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+3,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT BERSALIN,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+4,32,JAWA BARAT,3201,KABUPATEN BOGOR,PUSKESMAS,62,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,62.0
+5,32,JAWA BARAT,3201,KABUPATEN BOGOR,POSYANDU,4927,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4927.0
+6,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT UMUM,7,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,7.0
+7,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT KHUSUS,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+8,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT BERSALIN,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+9,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,PUSKESMAS,32,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,32.0
+10,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,POSYANDU,3551,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3551.0
+11,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT UMUM,8,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,8.0
+12,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT KHUSUS,3,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+13,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT BERSALIN,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+14,32,JAWA BARAT,3203,KABUPATEN CIANJUR,PUSKESMAS,44,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,44.0
+15,32,JAWA BARAT,3203,KABUPATEN CIANJUR,POSYANDU,2903,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2903.0
+16,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT UMUM,9,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+17,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT KHUSUS,2,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+18,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT BERSALIN,14,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,14.0
+19,32,JAWA BARAT,3204,KABUPATEN BANDUNG,PUSKESMAS,101,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,101.0
+20,32,JAWA BARAT,3204,KABUPATEN BANDUNG,POSYANDU,4294,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4294.0
+21,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT UMUM,2,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+22,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT KHUSUS,2,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+23,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT BERSALIN,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+24,32,JAWA BARAT,3205,KABUPATEN GARUT,PUSKESMAS,37,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,37.0
+25,32,JAWA BARAT,3205,KABUPATEN GARUT,POSYANDU,4104,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4104.0
+26,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT UMUM,6,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+27,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT KHUSUS,1,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+28,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT BERSALIN,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+29,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,PUSKESMAS,45,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,45.0
+30,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,POSYANDU,2301,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2301.0
+31,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT UMUM,7,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,7.0
+32,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT KHUSUS,1,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+33,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT BERSALIN,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+34,32,JAWA BARAT,3207,KABUPATEN CIAMIS,PUSKESMAS,60,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,60.0
+35,32,JAWA BARAT,3207,KABUPATEN CIAMIS,POSYANDU,1601,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1601.0
+36,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT UMUM,3,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+37,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT KHUSUS,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+38,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT BERSALIN,2,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+39,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,PUSKESMAS,65,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,65.0
+40,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,POSYANDU,1424,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1424.0
+41,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT UMUM,8,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,8.0
+42,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT KHUSUS,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+43,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT BERSALIN,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+44,32,JAWA BARAT,3209,KABUPATEN CIREBON,PUSKESMAS,49,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,49.0
+45,32,JAWA BARAT,3209,KABUPATEN CIREBON,POSYANDU,2618,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2618.0
+46,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT UMUM,21,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,21.0
+47,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT KHUSUS,14,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,14.0
+48,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT BERSALIN,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+49,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,PUSKESMAS,50,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,50.0
+50,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,POSYANDU,1461,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1461.0
+51,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT UMUM,4,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+52,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT KHUSUS,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+53,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT BERSALIN,5,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+54,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,PUSKESMAS,37,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,37.0
+55,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,POSYANDU,1649,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1649.0
+56,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT UMUM,1,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+57,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT KHUSUS,1,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+58,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT BERSALIN,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+59,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,PUSKESMAS,32,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,32.0
+60,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,POSYANDU,2335,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2335.0
+61,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT UMUM,6,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+62,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT KHUSUS,6,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+63,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT BERSALIN,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+64,32,JAWA BARAT,3213,KABUPATEN SUBANG,PUSKESMAS,15,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+65,32,JAWA BARAT,3213,KABUPATEN SUBANG,POSYANDU,1848,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1848.0
+66,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT UMUM,6,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+67,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT KHUSUS,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+68,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT BERSALIN,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+69,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,PUSKESMAS,20,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,20.0
+70,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,POSYANDU,1029,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1029.0
+71,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT UMUM,3,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+72,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT KHUSUS,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+73,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT BERSALIN,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+74,32,JAWA BARAT,3215,KABUPATEN KARAWANG,PUSKESMAS,40,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,40.0
+75,32,JAWA BARAT,3215,KABUPATEN KARAWANG,POSYANDU,2311,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2311.0
+76,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT UMUM,21,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,21.0
+77,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT KHUSUS,7,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,7.0
+78,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT BERSALIN,9,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+79,32,JAWA BARAT,3216,KABUPATEN BEKASI,PUSKESMAS,58,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,58.0
+80,32,JAWA BARAT,3216,KABUPATEN BEKASI,POSYANDU,2640,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2640.0
+81,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT UMUM,17,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,17.0
+82,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT KHUSUS,3,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+83,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT BERSALIN,1,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+84,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,PUSKESMAS,32,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,32.0
+85,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,POSYANDU,2339,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2339.0
+86,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT UMUM,7,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,7.0
+87,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT KHUSUS,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+88,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT BERSALIN,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+89,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,PUSKESMAS,40,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,40.0
+90,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,POSYANDU,1578,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1578.0
+91,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT UMUM,6,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+92,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT KHUSUS,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+93,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT BERSALIN,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+94,32,JAWA BARAT,3271,KOTA BOGOR,PUSKESMAS,73,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,73.0
+95,32,JAWA BARAT,3271,KOTA BOGOR,POSYANDU,974,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,974.0
+96,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT UMUM,4,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+97,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT KHUSUS,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+98,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT BERSALIN,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+99,32,JAWA BARAT,3272,KOTA SUKABUMI,PUSKESMAS,10,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,10.0
+100,32,JAWA BARAT,3272,KOTA SUKABUMI,POSYANDU,453,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,453.0
+101,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT UMUM,18,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,18.0
+102,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT KHUSUS,5,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+103,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT BERSALIN,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+104,32,JAWA BARAT,3273,KOTA BANDUNG,PUSKESMAS,39,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,39.0
+105,32,JAWA BARAT,3273,KOTA BANDUNG,POSYANDU,1983,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1983.0
+106,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT UMUM,8,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,8.0
+107,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT KHUSUS,2,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+108,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT BERSALIN,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+109,32,JAWA BARAT,3274,KOTA CIREBON,PUSKESMAS,25,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,25.0
+110,32,JAWA BARAT,3274,KOTA CIREBON,POSYANDU,331,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,331.0
+111,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT UMUM,18,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,18.0
+112,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT KHUSUS,3,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+113,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT BERSALIN,22,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,22.0
+114,32,JAWA BARAT,3275,KOTA BEKASI,PUSKESMAS,13,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,13.0
+115,32,JAWA BARAT,3275,KOTA BEKASI,POSYANDU,1593,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1593.0
+116,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT UMUM,36,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,36.0
+117,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT KHUSUS,5,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+118,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT BERSALIN,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+119,32,JAWA BARAT,3276,KOTA DEPOK,PUSKESMAS,22,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,22.0
+120,32,JAWA BARAT,3276,KOTA DEPOK,POSYANDU,1024,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1024.0
+121,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT UMUM,39,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,39.0
+122,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT KHUSUS,6,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+123,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT BERSALIN,3,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+124,32,JAWA BARAT,3277,KOTA CIMAHI,PUSKESMAS,32,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,32.0
+125,32,JAWA BARAT,3277,KOTA CIMAHI,POSYANDU,403,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,403.0
+126,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT UMUM,9,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+127,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT KHUSUS,1,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+128,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT BERSALIN,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+129,32,JAWA BARAT,3278,KOTA TASIKMALAYA,PUSKESMAS,15,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+130,32,JAWA BARAT,3278,KOTA TASIKMALAYA,POSYANDU,871,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,871.0
+131,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT UMUM,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+132,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT KHUSUS,0,UNIT,2018,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+133,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT BERSALIN,6,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+134,32,JAWA BARAT,3279,KOTA BANJAR,PUSKESMAS,21,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,21.0
+135,32,JAWA BARAT,3279,KOTA BANJAR,POSYANDU,199,UNIT,2018,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,199.0
+136,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT UMUM,23,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,23.0
+137,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT KHUSUS,6,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+138,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+139,32,JAWA BARAT,3201,KABUPATEN BOGOR,PUSKESMAS,101,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,101.0
+140,32,JAWA BARAT,3201,KABUPATEN BOGOR,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+141,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT UMUM,7,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,7.0
+142,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT KHUSUS,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+143,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+144,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,PUSKESMAS,58,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,58.0
+145,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+146,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT UMUM,4,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+147,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT KHUSUS,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+148,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+149,32,JAWA BARAT,3203,KABUPATEN CIANJUR,PUSKESMAS,45,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,45.0
+150,32,JAWA BARAT,3203,KABUPATEN CIANJUR,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+151,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT UMUM,8,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,8.0
+152,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT KHUSUS,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+153,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+154,32,JAWA BARAT,3204,KABUPATEN BANDUNG,PUSKESMAS,62,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,62.0
+155,32,JAWA BARAT,3204,KABUPATEN BANDUNG,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+156,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT UMUM,6,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+157,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT KHUSUS,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+158,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+159,32,JAWA BARAT,3205,KABUPATEN GARUT,PUSKESMAS,67,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,67.0
+160,32,JAWA BARAT,3205,KABUPATEN GARUT,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+161,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT UMUM,1,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+162,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT KHUSUS,1,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+163,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+164,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,PUSKESMAS,40,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,40.0
+165,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+166,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT UMUM,4,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+167,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT KHUSUS,1,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+168,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+169,32,JAWA BARAT,3207,KABUPATEN CIAMIS,PUSKESMAS,37,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,37.0
+170,32,JAWA BARAT,3207,KABUPATEN CIAMIS,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+171,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT UMUM,10,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,10.0
+172,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT KHUSUS,1,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+173,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+174,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,PUSKESMAS,37,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,37.0
+175,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+176,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT UMUM,8,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,8.0
+177,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT KHUSUS,3,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+178,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+179,32,JAWA BARAT,3209,KABUPATEN CIREBON,PUSKESMAS,60,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,60.0
+180,32,JAWA BARAT,3209,KABUPATEN CIREBON,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+181,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT UMUM,2,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+182,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT KHUSUS,2,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+183,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+184,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,PUSKESMAS,32,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,32.0
+185,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+186,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT UMUM,3,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+187,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT KHUSUS,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+188,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+189,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,PUSKESMAS,35,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,35.0
+190,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+191,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT UMUM,10,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,10.0
+192,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT KHUSUS,1,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+193,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+194,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,PUSKESMAS,49,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,49.0
+195,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+196,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT UMUM,7,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,7.0
+197,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT KHUSUS,1,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+198,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+199,32,JAWA BARAT,3213,KABUPATEN SUBANG,PUSKESMAS,40,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,40.0
+200,32,JAWA BARAT,3213,KABUPATEN SUBANG,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+201,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT UMUM,8,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,8.0
+202,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT KHUSUS,2,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+203,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+204,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,PUSKESMAS,20,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,20.0
+205,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+206,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT UMUM,18,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,18.0
+207,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT KHUSUS,3,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+208,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+209,32,JAWA BARAT,3215,KABUPATEN KARAWANG,PUSKESMAS,50,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,50.0
+210,32,JAWA BARAT,3215,KABUPATEN KARAWANG,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+211,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT UMUM,44,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,44.0
+212,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT KHUSUS,5,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+213,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+214,32,JAWA BARAT,3216,KABUPATEN BEKASI,PUSKESMAS,45,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,45.0
+215,32,JAWA BARAT,3216,KABUPATEN BEKASI,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+216,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT UMUM,6,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+217,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT KHUSUS,2,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+218,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+219,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,PUSKESMAS,32,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,32.0
+220,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+221,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT UMUM,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+222,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT KHUSUS,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+223,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+224,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,PUSKESMAS,15,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+225,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+226,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT UMUM,16,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,16.0
+227,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT KHUSUS,5,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+228,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+229,32,JAWA BARAT,3271,KOTA BOGOR,PUSKESMAS,25,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,25.0
+230,32,JAWA BARAT,3271,KOTA BOGOR,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+231,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT UMUM,6,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+232,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT KHUSUS,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+233,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+234,32,JAWA BARAT,3272,KOTA SUKABUMI,PUSKESMAS,15,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+235,32,JAWA BARAT,3272,KOTA SUKABUMI,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+236,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT UMUM,20,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,20.0
+237,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT KHUSUS,15,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+238,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+239,32,JAWA BARAT,3273,KOTA BANDUNG,PUSKESMAS,80,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,80.0
+240,32,JAWA BARAT,3273,KOTA BANDUNG,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+241,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT UMUM,9,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+242,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT KHUSUS,2,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+243,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+244,32,JAWA BARAT,3274,KOTA CIREBON,PUSKESMAS,22,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,22.0
+245,32,JAWA BARAT,3274,KOTA CIREBON,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+246,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT UMUM,42,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,42.0
+247,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT KHUSUS,4,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+248,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+249,32,JAWA BARAT,3275,KOTA BEKASI,PUSKESMAS,42,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,42.0
+250,32,JAWA BARAT,3275,KOTA BEKASI,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+251,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT UMUM,18,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,18.0
+252,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT KHUSUS,6,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+253,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+254,32,JAWA BARAT,3276,KOTA DEPOK,PUSKESMAS,35,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,35.0
+255,32,JAWA BARAT,3276,KOTA DEPOK,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+256,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT UMUM,6,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+257,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT KHUSUS,1,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+258,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+259,32,JAWA BARAT,3277,KOTA CIMAHI,PUSKESMAS,13,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,13.0
+260,32,JAWA BARAT,3277,KOTA CIMAHI,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+261,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT UMUM,7,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,7.0
+262,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT KHUSUS,5,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+263,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+264,32,JAWA BARAT,3278,KOTA TASIKMALAYA,PUSKESMAS,21,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,21.0
+265,32,JAWA BARAT,3278,KOTA TASIKMALAYA,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+266,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT UMUM,3,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+267,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT KHUSUS,0,UNIT,2019,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+268,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT BERSALIN,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+269,32,JAWA BARAT,3279,KOTA BANJAR,PUSKESMAS,10,UNIT,2019,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,10.0
+270,32,JAWA BARAT,3279,KOTA BANJAR,POSYANDU,0,UNIT,2019,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+271,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT UMUM,24,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,24.0
+272,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT KHUSUS,5,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+273,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+274,32,JAWA BARAT,3201,KABUPATEN BOGOR,PUSKESMAS,101,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,101.0
+275,32,JAWA BARAT,3201,KABUPATEN BOGOR,POSYANDU,5020,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5020.0
+276,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT UMUM,8,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,8.0
+277,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT KHUSUS,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+278,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+279,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,PUSKESMAS,58,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,58.0
+280,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,POSYANDU,3510,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3510.0
+281,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT UMUM,5,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+282,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT KHUSUS,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+283,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+284,32,JAWA BARAT,3203,KABUPATEN CIANJUR,PUSKESMAS,47,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,47.0
+285,32,JAWA BARAT,3203,KABUPATEN CIANJUR,POSYANDU,2922,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2922.0
+286,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT UMUM,10,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,10.0
+287,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT KHUSUS,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+288,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+289,32,JAWA BARAT,3204,KABUPATEN BANDUNG,PUSKESMAS,62,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,62.0
+290,32,JAWA BARAT,3204,KABUPATEN BANDUNG,POSYANDU,4308,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4308.0
+291,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT UMUM,6,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+292,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT KHUSUS,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+293,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+294,32,JAWA BARAT,3205,KABUPATEN GARUT,PUSKESMAS,67,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,67.0
+295,32,JAWA BARAT,3205,KABUPATEN GARUT,POSYANDU,4221,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4221.0
+296,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT UMUM,1,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+297,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT KHUSUS,1,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+298,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+299,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,PUSKESMAS,40,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,40.0
+300,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,POSYANDU,2402,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2402.0
+301,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT UMUM,4,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+302,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT KHUSUS,1,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+303,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+304,32,JAWA BARAT,3207,KABUPATEN CIAMIS,PUSKESMAS,37,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,37.0
+305,32,JAWA BARAT,3207,KABUPATEN CIAMIS,POSYANDU,1604,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1604.0
+306,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT UMUM,11,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,11.0
+307,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT KHUSUS,1,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+308,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+309,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,PUSKESMAS,37,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,37.0
+310,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,POSYANDU,1429,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1429.0
+311,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT UMUM,9,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+312,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT KHUSUS,3,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+313,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+314,32,JAWA BARAT,3209,KABUPATEN CIREBON,PUSKESMAS,60,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,60.0
+315,32,JAWA BARAT,3209,KABUPATEN CIREBON,POSYANDU,2660,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2660.0
+316,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT UMUM,2,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+317,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT KHUSUS,3,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+318,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+319,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,PUSKESMAS,32,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,32.0
+320,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,POSYANDU,1489,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1489.0
+321,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT UMUM,3,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+322,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT KHUSUS,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+323,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT BERSALIN,22,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,22.0
+324,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,PUSKESMAS,35,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,35.0
+325,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,POSYANDU,1683,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1683.0
+326,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT UMUM,10,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,10.0
+327,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT KHUSUS,1,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+328,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+329,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,PUSKESMAS,49,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,49.0
+330,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,POSYANDU,2340,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2340.0
+331,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT UMUM,7,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,7.0
+332,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT KHUSUS,1,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+333,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+334,32,JAWA BARAT,3213,KABUPATEN SUBANG,PUSKESMAS,40,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,40.0
+335,32,JAWA BARAT,3213,KABUPATEN SUBANG,POSYANDU,1908,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1908.0
+336,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT UMUM,9,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+337,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT KHUSUS,2,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+338,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+339,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,PUSKESMAS,20,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,20.0
+340,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,POSYANDU,1032,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1032.0
+341,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT UMUM,21,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,21.0
+342,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT KHUSUS,3,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+343,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+344,32,JAWA BARAT,3215,KABUPATEN KARAWANG,PUSKESMAS,50,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,50.0
+345,32,JAWA BARAT,3215,KABUPATEN KARAWANG,POSYANDU,2358,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2358.0
+346,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT UMUM,44,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,44.0
+347,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT KHUSUS,6,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+348,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+349,32,JAWA BARAT,3216,KABUPATEN BEKASI,PUSKESMAS,44,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,44.0
+350,32,JAWA BARAT,3216,KABUPATEN BEKASI,POSYANDU,2819,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2819.0
+351,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT UMUM,6,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+352,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT KHUSUS,3,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+353,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+354,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,PUSKESMAS,32,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,32.0
+355,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,POSYANDU,2315,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2315.0
+356,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT UMUM,1,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+357,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT KHUSUS,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+358,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+359,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,PUSKESMAS,15,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+360,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,POSYANDU,531,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,531.0
+361,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT UMUM,16,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,16.0
+362,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT KHUSUS,5,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+363,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+364,32,JAWA BARAT,3271,KOTA BOGOR,PUSKESMAS,25,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,25.0
+365,32,JAWA BARAT,3271,KOTA BOGOR,POSYANDU,980,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,980.0
+366,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT UMUM,6,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+367,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT KHUSUS,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+368,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+369,32,JAWA BARAT,3272,KOTA SUKABUMI,PUSKESMAS,15,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+370,32,JAWA BARAT,3272,KOTA SUKABUMI,POSYANDU,456,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,456.0
+371,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT UMUM,21,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,21.0
+372,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT KHUSUS,15,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+373,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+374,32,JAWA BARAT,3273,KOTA BANDUNG,PUSKESMAS,80,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,80.0
+375,32,JAWA BARAT,3273,KOTA BANDUNG,POSYANDU,1988,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1988.0
+376,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT UMUM,9,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+377,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT KHUSUS,2,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+378,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+379,32,JAWA BARAT,3274,KOTA CIREBON,PUSKESMAS,22,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,22.0
+380,32,JAWA BARAT,3274,KOTA CIREBON,POSYANDU,335,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,335.0
+381,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT UMUM,43,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,43.0
+382,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT KHUSUS,3,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+383,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+384,32,JAWA BARAT,3275,KOTA BEKASI,PUSKESMAS,42,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,42.0
+385,32,JAWA BARAT,3275,KOTA BEKASI,POSYANDU,1611,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1611.0
+386,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT UMUM,19,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,19.0
+387,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT KHUSUS,5,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+388,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+389,32,JAWA BARAT,3276,KOTA DEPOK,PUSKESMAS,38,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,38.0
+390,32,JAWA BARAT,3276,KOTA DEPOK,POSYANDU,1035,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1035.0
+391,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT UMUM,6,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+392,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT KHUSUS,1,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+393,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+394,32,JAWA BARAT,3277,KOTA CIMAHI,PUSKESMAS,13,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,13.0
+395,32,JAWA BARAT,3277,KOTA CIMAHI,POSYANDU,404,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,404.0
+396,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT UMUM,7,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,7.0
+397,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT KHUSUS,5,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+398,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+399,32,JAWA BARAT,3278,KOTA TASIKMALAYA,PUSKESMAS,22,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,22.0
+400,32,JAWA BARAT,3278,KOTA TASIKMALAYA,POSYANDU,884,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,884.0
+401,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT UMUM,3,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+402,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT KHUSUS,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+403,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT BERSALIN,0,UNIT,2020,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+404,32,JAWA BARAT,3279,KOTA BANJAR,PUSKESMAS,10,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,10.0
+405,32,JAWA BARAT,3279,KOTA BANJAR,POSYANDU,201,UNIT,2020,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,201.0
+406,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT UMUM,25,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,25.0
+407,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT KHUSUS,4,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+408,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+409,32,JAWA BARAT,3201,KABUPATEN BOGOR,PUSKESMAS,101,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,101.0
+410,32,JAWA BARAT,3201,KABUPATEN BOGOR,POSYANDU,5133,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5133.0
+411,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT UMUM,9,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+412,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT KHUSUS,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+413,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+414,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,PUSKESMAS,58,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,58.0
+415,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,POSYANDU,3503,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3503.0
+416,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT UMUM,5,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+417,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT KHUSUS,1,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+418,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+419,32,JAWA BARAT,3203,KABUPATEN CIANJUR,PUSKESMAS,47,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,47.0
+420,32,JAWA BARAT,3203,KABUPATEN CIANJUR,POSYANDU,2929,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2929.0
+421,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT UMUM,10,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,10.0
+422,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT KHUSUS,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+423,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+424,32,JAWA BARAT,3204,KABUPATEN BANDUNG,PUSKESMAS,62,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,62.0
+425,32,JAWA BARAT,3204,KABUPATEN BANDUNG,POSYANDU,4308,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4308.0
+426,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT UMUM,6,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+427,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT KHUSUS,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+428,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+429,32,JAWA BARAT,3205,KABUPATEN GARUT,PUSKESMAS,67,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,67.0
+430,32,JAWA BARAT,3205,KABUPATEN GARUT,POSYANDU,4221,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4221.0
+431,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT UMUM,1,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+432,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT KHUSUS,1,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+433,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+434,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,PUSKESMAS,40,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,40.0
+435,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,POSYANDU,2395,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2395.0
+436,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT UMUM,5,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+437,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT KHUSUS,1,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+438,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+439,32,JAWA BARAT,3207,KABUPATEN CIAMIS,PUSKESMAS,37,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,37.0
+440,32,JAWA BARAT,3207,KABUPATEN CIAMIS,POSYANDU,1608,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1608.0
+441,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT UMUM,11,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,11.0
+442,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT KHUSUS,1,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+443,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+444,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,PUSKESMAS,37,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,37.0
+445,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,POSYANDU,1136,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1136.0
+446,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT UMUM,10,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,10.0
+447,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT KHUSUS,2,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+448,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+449,32,JAWA BARAT,3209,KABUPATEN CIREBON,PUSKESMAS,60,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,60.0
+450,32,JAWA BARAT,3209,KABUPATEN CIREBON,POSYANDU,2670,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2670.0
+451,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT UMUM,3,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+452,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT KHUSUS,2,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+453,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+454,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,PUSKESMAS,32,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,32.0
+455,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,POSYANDU,1422,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1422.0
+456,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT UMUM,3,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+457,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT KHUSUS,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+458,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+459,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,PUSKESMAS,35,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,35.0
+460,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,POSYANDU,1698,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1698.0
+461,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT UMUM,9,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+462,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT KHUSUS,1,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+463,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+464,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,PUSKESMAS,49,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,49.0
+465,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,POSYANDU,1985,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1985.0
+466,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT UMUM,8,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,8.0
+467,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT KHUSUS,1,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+468,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+469,32,JAWA BARAT,3213,KABUPATEN SUBANG,PUSKESMAS,40,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,40.0
+470,32,JAWA BARAT,3213,KABUPATEN SUBANG,POSYANDU,1907,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1907.0
+471,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT UMUM,10,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,10.0
+472,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT KHUSUS,1,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+473,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+474,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,PUSKESMAS,20,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,20.0
+475,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,POSYANDU,1043,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1043.0
+476,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT UMUM,22,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,22.0
+477,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT KHUSUS,3,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+478,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+479,32,JAWA BARAT,3215,KABUPATEN KARAWANG,PUSKESMAS,50,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,50.0
+480,32,JAWA BARAT,3215,KABUPATEN KARAWANG,POSYANDU,2364,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2364.0
+481,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT UMUM,48,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,48.0
+482,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT KHUSUS,4,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+483,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+484,32,JAWA BARAT,3216,KABUPATEN BEKASI,PUSKESMAS,44,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,44.0
+485,32,JAWA BARAT,3216,KABUPATEN BEKASI,POSYANDU,2864,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2864.0
+486,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT UMUM,6,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+487,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT KHUSUS,3,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+488,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+489,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,PUSKESMAS,32,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,32.0
+490,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,POSYANDU,2359,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2359.0
+491,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT UMUM,1,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+492,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT KHUSUS,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+493,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+494,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,PUSKESMAS,15,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+495,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,POSYANDU,531,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,531.0
+496,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT UMUM,17,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,17.0
+497,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT KHUSUS,5,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+498,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+499,32,JAWA BARAT,3271,KOTA BOGOR,PUSKESMAS,25,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,25.0
+500,32,JAWA BARAT,3271,KOTA BOGOR,POSYANDU,980,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,980.0
+501,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT UMUM,6,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+502,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT KHUSUS,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+503,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+504,32,JAWA BARAT,3272,KOTA SUKABUMI,PUSKESMAS,15,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+505,32,JAWA BARAT,3272,KOTA SUKABUMI,POSYANDU,456,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,456.0
+506,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT UMUM,22,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,22.0
+507,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT KHUSUS,15,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+508,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+509,32,JAWA BARAT,3273,KOTA BANDUNG,PUSKESMAS,80,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,80.0
+510,32,JAWA BARAT,3273,KOTA BANDUNG,POSYANDU,1995,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1995.0
+511,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT UMUM,9,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+512,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT KHUSUS,1,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+513,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+514,32,JAWA BARAT,3274,KOTA CIREBON,PUSKESMAS,22,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,22.0
+515,32,JAWA BARAT,3274,KOTA CIREBON,POSYANDU,314,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,314.0
+516,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT UMUM,44,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,44.0
+517,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT KHUSUS,3,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+518,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+519,32,JAWA BARAT,3275,KOTA BEKASI,PUSKESMAS,47,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,47.0
+520,32,JAWA BARAT,3275,KOTA BEKASI,POSYANDU,1612,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1612.0
+521,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT UMUM,20,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,20.0
+522,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT KHUSUS,4,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+523,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+524,32,JAWA BARAT,3276,KOTA DEPOK,PUSKESMAS,38,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,38.0
+525,32,JAWA BARAT,3276,KOTA DEPOK,POSYANDU,1039,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1039.0
+526,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT UMUM,7,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,7.0
+527,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT KHUSUS,1,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+528,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+529,32,JAWA BARAT,3277,KOTA CIMAHI,PUSKESMAS,13,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,13.0
+530,32,JAWA BARAT,3277,KOTA CIMAHI,POSYANDU,427,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,427.0
+531,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT UMUM,7,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,7.0
+532,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT KHUSUS,5,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+533,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+534,32,JAWA BARAT,3278,KOTA TASIKMALAYA,PUSKESMAS,22,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,22.0
+535,32,JAWA BARAT,3278,KOTA TASIKMALAYA,POSYANDU,890,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,890.0
+536,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT UMUM,4,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+537,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT KHUSUS,0,UNIT,2021,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+538,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT BERSALIN,0,UNIT,2021,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+539,32,JAWA BARAT,3279,KOTA BANJAR,PUSKESMAS,10,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,10.0
+540,32,JAWA BARAT,3279,KOTA BANJAR,POSYANDU,200,UNIT,2021,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,200.0
+541,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT UMUM,26,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,26.0
+542,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT KHUSUS,3,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+543,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+544,32,JAWA BARAT,3201,KABUPATEN BOGOR,PUSKESMAS,101,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,101.0
+545,32,JAWA BARAT,3201,KABUPATEN BOGOR,POSYANDU,5135,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5135.0
+546,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT UMUM,9,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+547,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT KHUSUS,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+548,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+549,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,PUSKESMAS,58,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,58.0
+550,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,POSYANDU,3514,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3514.0
+551,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT UMUM,5,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+552,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT KHUSUS,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+553,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+554,32,JAWA BARAT,3203,KABUPATEN CIANJUR,PUSKESMAS,47,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,47.0
+555,32,JAWA BARAT,3203,KABUPATEN CIANJUR,POSYANDU,2929,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2929.0
+556,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT UMUM,11,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,11.0
+557,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT KHUSUS,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+558,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+559,32,JAWA BARAT,3204,KABUPATEN BANDUNG,PUSKESMAS,62,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,62.0
+560,32,JAWA BARAT,3204,KABUPATEN BANDUNG,POSYANDU,4349,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4349.0
+561,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT UMUM,7,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,7.0
+562,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT KHUSUS,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+563,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+564,32,JAWA BARAT,3205,KABUPATEN GARUT,PUSKESMAS,67,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,67.0
+565,32,JAWA BARAT,3205,KABUPATEN GARUT,POSYANDU,4304,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4304.0
+566,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT UMUM,1,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+567,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT KHUSUS,1,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+568,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+569,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,PUSKESMAS,40,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,40.0
+570,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,POSYANDU,2413,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2413.0
+571,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT UMUM,5,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+572,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT KHUSUS,1,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+573,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+574,32,JAWA BARAT,3207,KABUPATEN CIAMIS,PUSKESMAS,37,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,37.0
+575,32,JAWA BARAT,3207,KABUPATEN CIAMIS,POSYANDU,1608,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1608.0
+576,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT UMUM,11,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,11.0
+577,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT KHUSUS,1,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+578,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+579,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,PUSKESMAS,37,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,37.0
+580,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,POSYANDU,1435,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1435.0
+581,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT UMUM,10,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,10.0
+582,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT KHUSUS,2,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+583,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+584,32,JAWA BARAT,3209,KABUPATEN CIREBON,PUSKESMAS,60,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,60.0
+585,32,JAWA BARAT,3209,KABUPATEN CIREBON,POSYANDU,2691,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2691.0
+586,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT UMUM,3,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+587,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT KHUSUS,2,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+588,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+589,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,PUSKESMAS,32,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,32.0
+590,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,POSYANDU,1497,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1497.0
+591,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT UMUM,3,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+592,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT KHUSUS,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+593,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+594,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,PUSKESMAS,35,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,35.0
+595,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,POSYANDU,1704,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1704.0
+596,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT UMUM,11,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,11.0
+597,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT KHUSUS,1,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+598,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+599,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,PUSKESMAS,49,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,49.0
+600,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,POSYANDU,2346,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2346.0
+601,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT UMUM,9,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+602,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT KHUSUS,1,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+603,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+604,32,JAWA BARAT,3213,KABUPATEN SUBANG,PUSKESMAS,40,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,40.0
+605,32,JAWA BARAT,3213,KABUPATEN SUBANG,POSYANDU,1907,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1907.0
+606,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT UMUM,9,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+607,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT KHUSUS,2,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+608,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+609,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,PUSKESMAS,20,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,20.0
+610,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,POSYANDU,1047,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1047.0
+611,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT UMUM,23,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,23.0
+612,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT KHUSUS,2,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+613,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+614,32,JAWA BARAT,3215,KABUPATEN KARAWANG,PUSKESMAS,50,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,50.0
+615,32,JAWA BARAT,3215,KABUPATEN KARAWANG,POSYANDU,2382,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2382.0
+616,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT UMUM,49,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,49.0
+617,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT KHUSUS,4,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+618,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+619,32,JAWA BARAT,3216,KABUPATEN BEKASI,PUSKESMAS,46,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,46.0
+620,32,JAWA BARAT,3216,KABUPATEN BEKASI,POSYANDU,2482,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2482.0
+621,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT UMUM,6,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+622,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT KHUSUS,3,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+623,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+624,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,PUSKESMAS,32,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,32.0
+625,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,POSYANDU,2340,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2340.0
+626,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT UMUM,1,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+627,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT KHUSUS,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+628,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+629,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,PUSKESMAS,15,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+630,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,POSYANDU,531,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,531.0
+631,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT UMUM,17,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,17.0
+632,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT KHUSUS,5,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+633,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+634,32,JAWA BARAT,3271,KOTA BOGOR,PUSKESMAS,25,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,25.0
+635,32,JAWA BARAT,3271,KOTA BOGOR,POSYANDU,980,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,980.0
+636,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT UMUM,6,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+637,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT KHUSUS,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+638,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+639,32,JAWA BARAT,3272,KOTA SUKABUMI,PUSKESMAS,15,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+640,32,JAWA BARAT,3272,KOTA SUKABUMI,POSYANDU,461,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,461.0
+641,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT UMUM,23,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,23.0
+642,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT KHUSUS,15,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+643,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+644,32,JAWA BARAT,3273,KOTA BANDUNG,PUSKESMAS,80,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,80.0
+645,32,JAWA BARAT,3273,KOTA BANDUNG,POSYANDU,1992,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1992.0
+646,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT UMUM,9,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+647,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT KHUSUS,1,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+648,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+649,32,JAWA BARAT,3274,KOTA CIREBON,PUSKESMAS,22,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,22.0
+650,32,JAWA BARAT,3274,KOTA CIREBON,POSYANDU,401,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,401.0
+651,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT UMUM,43,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,43.0
+652,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT KHUSUS,3,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+653,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+654,32,JAWA BARAT,3275,KOTA BEKASI,PUSKESMAS,48,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,48.0
+655,32,JAWA BARAT,3275,KOTA BEKASI,POSYANDU,1614,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1614.0
+656,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT UMUM,22,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,22.0
+657,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT KHUSUS,4,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+658,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+659,32,JAWA BARAT,3276,KOTA DEPOK,PUSKESMAS,38,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,38.0
+660,32,JAWA BARAT,3276,KOTA DEPOK,POSYANDU,1049,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1049.0
+661,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT UMUM,7,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,7.0
+662,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT KHUSUS,1,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+663,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+664,32,JAWA BARAT,3277,KOTA CIMAHI,PUSKESMAS,13,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,13.0
+665,32,JAWA BARAT,3277,KOTA CIMAHI,POSYANDU,410,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,410.0
+666,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT UMUM,8,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,8.0
+667,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT KHUSUS,5,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+668,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+669,32,JAWA BARAT,3278,KOTA TASIKMALAYA,PUSKESMAS,22,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,22.0
+670,32,JAWA BARAT,3278,KOTA TASIKMALAYA,POSYANDU,894,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,894.0
+671,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT UMUM,4,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+672,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT KHUSUS,0,UNIT,2022,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+673,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT BERSALIN,0,UNIT,2022,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+674,32,JAWA BARAT,3279,KOTA BANJAR,PUSKESMAS,10,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,10.0
+675,32,JAWA BARAT,3279,KOTA BANJAR,POSYANDU,200,UNIT,2022,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,200.0
+676,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT UMUM,27,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,27.0
+677,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT KHUSUS,4,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+678,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+679,32,JAWA BARAT,3201,KABUPATEN BOGOR,PUSKESMAS,101,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,101.0
+680,32,JAWA BARAT,3201,KABUPATEN BOGOR,POSYANDU,5141,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5141.0
+681,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT UMUM,9,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+682,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT KHUSUS,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+683,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+684,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,PUSKESMAS,58,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,58.0
+685,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,POSYANDU,3680,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3680.0
+686,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT UMUM,5,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+687,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT KHUSUS,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+688,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+689,32,JAWA BARAT,3203,KABUPATEN CIANJUR,PUSKESMAS,47,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,47.0
+690,32,JAWA BARAT,3203,KABUPATEN CIANJUR,POSYANDU,2945,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2945.0
+691,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT UMUM,11,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,11.0
+692,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT KHUSUS,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+693,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+694,32,JAWA BARAT,3204,KABUPATEN BANDUNG,PUSKESMAS,62,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,62.0
+695,32,JAWA BARAT,3204,KABUPATEN BANDUNG,POSYANDU,4350,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4350.0
+696,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT UMUM,8,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,8.0
+697,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT KHUSUS,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+698,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+699,32,JAWA BARAT,3205,KABUPATEN GARUT,PUSKESMAS,67,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,67.0
+700,32,JAWA BARAT,3205,KABUPATEN GARUT,POSYANDU,4334,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4334.0
+701,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT UMUM,1,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+702,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT KHUSUS,1,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+703,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+704,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,PUSKESMAS,40,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,40.0
+705,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,POSYANDU,2392,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2392.0
+706,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT UMUM,5,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+707,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT KHUSUS,1,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+708,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+709,32,JAWA BARAT,3207,KABUPATEN CIAMIS,PUSKESMAS,37,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,37.0
+710,32,JAWA BARAT,3207,KABUPATEN CIAMIS,POSYANDU,1612,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1612.0
+711,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT UMUM,11,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,11.0
+712,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT KHUSUS,1,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+713,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+714,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,PUSKESMAS,37,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,37.0
+715,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,POSYANDU,1436,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1436.0
+716,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT UMUM,10,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,10.0
+717,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT KHUSUS,2,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+718,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+719,32,JAWA BARAT,3209,KABUPATEN CIREBON,PUSKESMAS,60,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,60.0
+720,32,JAWA BARAT,3209,KABUPATEN CIREBON,POSYANDU,2706,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2706.0
+721,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT UMUM,5,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+722,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT KHUSUS,1,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+723,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+724,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,PUSKESMAS,32,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,32.0
+725,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,POSYANDU,1503,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1503.0
+726,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT UMUM,3,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+727,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT KHUSUS,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+728,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+729,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,PUSKESMAS,35,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,35.0
+730,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,POSYANDU,1713,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1713.0
+731,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT UMUM,11,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,11.0
+732,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT KHUSUS,1,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+733,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+734,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,PUSKESMAS,49,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,49.0
+735,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,POSYANDU,2363,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2363.0
+736,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT UMUM,10,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,10.0
+737,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT KHUSUS,1,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+738,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+739,32,JAWA BARAT,3213,KABUPATEN SUBANG,PUSKESMAS,40,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,40.0
+740,32,JAWA BARAT,3213,KABUPATEN SUBANG,POSYANDU,1925,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1925.0
+741,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT UMUM,9,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+742,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT KHUSUS,2,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+743,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+744,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,PUSKESMAS,20,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,20.0
+745,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,POSYANDU,1050,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1050.0
+746,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT UMUM,24,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,24.0
+747,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT KHUSUS,2,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+748,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+749,32,JAWA BARAT,3215,KABUPATEN KARAWANG,PUSKESMAS,50,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,50.0
+750,32,JAWA BARAT,3215,KABUPATEN KARAWANG,POSYANDU,2375,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2375.0
+751,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT UMUM,50,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,50.0
+752,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT KHUSUS,4,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+753,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+754,32,JAWA BARAT,3216,KABUPATEN BEKASI,PUSKESMAS,51,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,51.0
+755,32,JAWA BARAT,3216,KABUPATEN BEKASI,POSYANDU,2883,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2883.0
+756,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT UMUM,6,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+757,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT KHUSUS,3,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+758,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+759,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,PUSKESMAS,32,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,32.0
+760,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,POSYANDU,2340,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2340.0
+761,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT UMUM,1,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+762,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT KHUSUS,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+763,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+764,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,PUSKESMAS,15,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+765,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,POSYANDU,532,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,532.0
+766,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT UMUM,18,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,18.0
+767,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT KHUSUS,4,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+768,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+769,32,JAWA BARAT,3271,KOTA BOGOR,PUSKESMAS,25,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,25.0
+770,32,JAWA BARAT,3271,KOTA BOGOR,POSYANDU,982,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,982.0
+771,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT UMUM,6,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+772,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT KHUSUS,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+773,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+774,32,JAWA BARAT,3272,KOTA SUKABUMI,PUSKESMAS,15,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+775,32,JAWA BARAT,3272,KOTA SUKABUMI,POSYANDU,461,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,461.0
+776,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT UMUM,26,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,26.0
+777,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT KHUSUS,15,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+778,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+779,32,JAWA BARAT,3273,KOTA BANDUNG,PUSKESMAS,80,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,80.0
+780,32,JAWA BARAT,3273,KOTA BANDUNG,POSYANDU,1999,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1999.0
+781,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT UMUM,9,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+782,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT KHUSUS,1,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+783,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+784,32,JAWA BARAT,3274,KOTA CIREBON,PUSKESMAS,22,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,22.0
+785,32,JAWA BARAT,3274,KOTA CIREBON,POSYANDU,345,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,345.0
+786,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT UMUM,46,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,46.0
+787,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT KHUSUS,2,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+788,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+789,32,JAWA BARAT,3275,KOTA BEKASI,PUSKESMAS,48,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,48.0
+790,32,JAWA BARAT,3275,KOTA BEKASI,POSYANDU,1615,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1615.0
+791,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT UMUM,23,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,23.0
+792,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT KHUSUS,4,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+793,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+794,32,JAWA BARAT,3276,KOTA DEPOK,PUSKESMAS,38,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,38.0
+795,32,JAWA BARAT,3276,KOTA DEPOK,POSYANDU,1063,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1063.0
+796,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT UMUM,7,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,7.0
+797,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT KHUSUS,1,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+798,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+799,32,JAWA BARAT,3277,KOTA CIMAHI,PUSKESMAS,13,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,13.0
+800,32,JAWA BARAT,3277,KOTA CIMAHI,POSYANDU,411,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,411.0
+801,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT UMUM,8,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,8.0
+802,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT KHUSUS,6,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+803,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+804,32,JAWA BARAT,3278,KOTA TASIKMALAYA,PUSKESMAS,22,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,22.0
+805,32,JAWA BARAT,3278,KOTA TASIKMALAYA,POSYANDU,909,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,909.0
+806,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT UMUM,2,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+807,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT KHUSUS,0,UNIT,2023,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+808,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT BERSALIN,0,UNIT,2023,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+809,32,JAWA BARAT,3279,KOTA BANJAR,PUSKESMAS,10,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,10.0
+810,32,JAWA BARAT,3279,KOTA BANJAR,POSYANDU,200,UNIT,2023,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,200.0
+811,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT UMUM,28,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,28.0
+812,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT KHUSUS,3,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3.0
+813,32,JAWA BARAT,3201,KABUPATEN BOGOR,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+814,32,JAWA BARAT,3201,KABUPATEN BOGOR,PUSKESMAS,101,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,101.0
+815,32,JAWA BARAT,3201,KABUPATEN BOGOR,POSYANDU,5152,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5152.0
+816,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT UMUM,9,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+817,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT KHUSUS,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+818,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+819,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,PUSKESMAS,58,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,58.0
+820,32,JAWA BARAT,3202,KABUPATEN SUKABUMI,POSYANDU,3568,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,3568.0
+821,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT UMUM,7,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,7.0
+822,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT KHUSUS,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+823,32,JAWA BARAT,3203,KABUPATEN CIANJUR,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+824,32,JAWA BARAT,3203,KABUPATEN CIANJUR,PUSKESMAS,47,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,47.0
+825,32,JAWA BARAT,3203,KABUPATEN CIANJUR,POSYANDU,2950,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2950.0
+826,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT UMUM,17,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,17.0
+827,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT KHUSUS,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+828,32,JAWA BARAT,3204,KABUPATEN BANDUNG,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+829,32,JAWA BARAT,3204,KABUPATEN BANDUNG,PUSKESMAS,62,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,62.0
+830,32,JAWA BARAT,3204,KABUPATEN BANDUNG,POSYANDU,4357,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4357.0
+831,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT UMUM,9,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+832,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT KHUSUS,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+833,32,JAWA BARAT,3205,KABUPATEN GARUT,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+834,32,JAWA BARAT,3205,KABUPATEN GARUT,PUSKESMAS,67,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,67.0
+835,32,JAWA BARAT,3205,KABUPATEN GARUT,POSYANDU,4379,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4379.0
+836,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT UMUM,2,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+837,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT KHUSUS,1,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+838,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+839,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,PUSKESMAS,40,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,40.0
+840,32,JAWA BARAT,3206,KABUPATEN TASIKMALAYA,POSYANDU,2429,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2429.0
+841,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT UMUM,5,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+842,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT KHUSUS,1,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+843,32,JAWA BARAT,3207,KABUPATEN CIAMIS,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+844,32,JAWA BARAT,3207,KABUPATEN CIAMIS,PUSKESMAS,37,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,37.0
+845,32,JAWA BARAT,3207,KABUPATEN CIAMIS,POSYANDU,1617,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1617.0
+846,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT UMUM,11,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,11.0
+847,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT KHUSUS,1,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+848,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+849,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,PUSKESMAS,37,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,37.0
+850,32,JAWA BARAT,3208,KABUPATEN KUNINGAN,POSYANDU,1439,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1439.0
+851,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT UMUM,11,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,11.0
+852,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT KHUSUS,2,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+853,32,JAWA BARAT,3209,KABUPATEN CIREBON,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+854,32,JAWA BARAT,3209,KABUPATEN CIREBON,PUSKESMAS,60,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,60.0
+855,32,JAWA BARAT,3209,KABUPATEN CIREBON,POSYANDU,2712,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2712.0
+856,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT UMUM,5,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+857,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT KHUSUS,1,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+858,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+859,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,PUSKESMAS,32,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,32.0
+860,32,JAWA BARAT,3210,KABUPATEN MAJALENGKA,POSYANDU,1506,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1506.0
+861,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT UMUM,5,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,5.0
+862,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT KHUSUS,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+863,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+864,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,PUSKESMAS,35,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,35.0
+865,32,JAWA BARAT,3211,KABUPATEN SUMEDANG,POSYANDU,1718,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1718.0
+866,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT UMUM,11,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,11.0
+867,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT KHUSUS,1,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+868,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+869,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,PUSKESMAS,49,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,49.0
+870,32,JAWA BARAT,3212,KABUPATEN INDRAMAYU,POSYANDU,2366,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2366.0
+871,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT UMUM,10,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,10.0
+872,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT KHUSUS,1,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+873,32,JAWA BARAT,3213,KABUPATEN SUBANG,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+874,32,JAWA BARAT,3213,KABUPATEN SUBANG,PUSKESMAS,40,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,40.0
+875,32,JAWA BARAT,3213,KABUPATEN SUBANG,POSYANDU,1928,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1928.0
+876,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT UMUM,9,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+877,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT KHUSUS,2,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+878,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+879,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,PUSKESMAS,20,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,20.0
+880,32,JAWA BARAT,3214,KABUPATEN PURWAKARTA,POSYANDU,1062,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1062.0
+881,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT UMUM,25,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,25.0
+882,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT KHUSUS,1,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+883,32,JAWA BARAT,3215,KABUPATEN KARAWANG,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+884,32,JAWA BARAT,3215,KABUPATEN KARAWANG,PUSKESMAS,50,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,50.0
+885,32,JAWA BARAT,3215,KABUPATEN KARAWANG,POSYANDU,2388,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2388.0
+886,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT UMUM,51,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,51.0
+887,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT KHUSUS,4,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+888,32,JAWA BARAT,3216,KABUPATEN BEKASI,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+889,32,JAWA BARAT,3216,KABUPATEN BEKASI,PUSKESMAS,51,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,51.0
+890,32,JAWA BARAT,3216,KABUPATEN BEKASI,POSYANDU,2952,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2952.0
+891,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT UMUM,6,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+892,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT KHUSUS,6,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+893,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+894,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,PUSKESMAS,32,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,32.0
+895,32,JAWA BARAT,3217,KABUPATEN BANDUNG BARAT,POSYANDU,2343,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2343.0
+896,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT UMUM,1,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+897,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT KHUSUS,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+898,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+899,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,PUSKESMAS,15,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+900,32,JAWA BARAT,3218,KABUPATEN PANGANDARAN,POSYANDU,531,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,531.0
+901,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT UMUM,18,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,18.0
+902,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT KHUSUS,4,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+903,32,JAWA BARAT,3271,KOTA BOGOR,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+904,32,JAWA BARAT,3271,KOTA BOGOR,PUSKESMAS,25,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,25.0
+905,32,JAWA BARAT,3271,KOTA BOGOR,POSYANDU,983,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,983.0
+906,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT UMUM,6,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+907,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT KHUSUS,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+908,32,JAWA BARAT,3272,KOTA SUKABUMI,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+909,32,JAWA BARAT,3272,KOTA SUKABUMI,PUSKESMAS,15,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+910,32,JAWA BARAT,3272,KOTA SUKABUMI,POSYANDU,461,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,461.0
+911,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT UMUM,27,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,27.0
+912,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT KHUSUS,15,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,15.0
+913,32,JAWA BARAT,3273,KOTA BANDUNG,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+914,32,JAWA BARAT,3273,KOTA BANDUNG,PUSKESMAS,80,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,80.0
+915,32,JAWA BARAT,3273,KOTA BANDUNG,POSYANDU,2000,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2000.0
+916,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT UMUM,9,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+917,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT KHUSUS,1,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+918,32,JAWA BARAT,3274,KOTA CIREBON,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+919,32,JAWA BARAT,3274,KOTA CIREBON,PUSKESMAS,22,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,22.0
+920,32,JAWA BARAT,3274,KOTA CIREBON,POSYANDU,345,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,345.0
+921,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT UMUM,46,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,46.0
+922,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT KHUSUS,2,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,2.0
+923,32,JAWA BARAT,3275,KOTA BEKASI,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+924,32,JAWA BARAT,3275,KOTA BEKASI,PUSKESMAS,48,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,48.0
+925,32,JAWA BARAT,3275,KOTA BEKASI,POSYANDU,1617,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1617.0
+926,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT UMUM,24,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,24.0
+927,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT KHUSUS,4,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+928,32,JAWA BARAT,3276,KOTA DEPOK,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+929,32,JAWA BARAT,3276,KOTA DEPOK,PUSKESMAS,38,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,38.0
+930,32,JAWA BARAT,3276,KOTA DEPOK,POSYANDU,1070,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1070.0
+931,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT UMUM,7,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,7.0
+932,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT KHUSUS,1,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,1.0
+933,32,JAWA BARAT,3277,KOTA CIMAHI,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+934,32,JAWA BARAT,3277,KOTA CIMAHI,PUSKESMAS,13,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,13.0
+935,32,JAWA BARAT,3277,KOTA CIMAHI,POSYANDU,412,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,412.0
+936,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT UMUM,9,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,9.0
+937,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT KHUSUS,6,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,6.0
+938,32,JAWA BARAT,3278,KOTA TASIKMALAYA,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+939,32,JAWA BARAT,3278,KOTA TASIKMALAYA,PUSKESMAS,22,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,22.0
+940,32,JAWA BARAT,3278,KOTA TASIKMALAYA,POSYANDU,914,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,914.0
+941,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT UMUM,4,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,4.0
+942,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT KHUSUS,0,UNIT,2024,zero_unverified,Nilai nol dipertahankan apa adanya; kemungkinan benar tidak ada fasilitas namun belum terverifikasi silang. Diperlakukan sebagai 0 dalam dashboard.,0.0
+943,32,JAWA BARAT,3279,KOTA BANJAR,RUMAH SAKIT BERSALIN,0,UNIT,2024,zero_suspected,"Diduga kesenjangan pelaporan, bukan nol sebenarnya. Nilai asli dipertahankan; dikecualikan dari perhitungan KPI dashboard (jumlah_faskes_viz = NaN).",
+944,32,JAWA BARAT,3279,KOTA BANJAR,PUSKESMAS,10,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,10.0
+945,32,JAWA BARAT,3279,KOTA BANJAR,POSYANDU,206,UNIT,2024,valid_positive,Tidak ada perubahan; nilai asli dipertahankan apa adanya.,206.0
