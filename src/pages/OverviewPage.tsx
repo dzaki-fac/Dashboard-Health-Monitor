@@ -20,7 +20,7 @@ export function OverviewPage() {
       <div className="grid gap-3 xl:grid-cols-2">
         <Card
           title="Tren Fasilitas 2018–2024"
-          info="CBQ 1 — pola jumlah setiap jenis fasilitas per tahun, satu skala unit. Tahun tanpa nilai valid ditampilkan sebagai garis putus, bukan nol."
+          info="CBQ 1 — pola jumlah setiap jenis fasilitas per tahun. Tiap jenis punya panel & skala Y sendiri karena rentang magnitudonya sangat berbeda (Posyandu ±54.000 vs RS Khusus ±70); satu skala bersama membuat semua jenis selain Posyandu menempel di nol. Tahun tanpa nilai valid tetap garis putus, bukan nol."
         >
           <TrendChart />
         </Card>

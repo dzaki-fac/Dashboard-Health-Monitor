@@ -145,9 +145,12 @@ ada di halaman **Metodologi** di dalam aplikasi.
 - Filter global: tahun fokus (default 2024), jenis, kabupaten/kota, Reset —
   memengaruhi semua komponen; grafik tren tetap menampilkan 2018–2024 dengan
   penanda garis "fokus {tahun}".
-- Legend tren interaktif (klik untuk sembunyikan seri); garis terputus pada tahun
-  tanpa nilai (Posyandu 2019 tidak digambar sebagai 0). Semua jenis dalam satu chart
-  dengan satu skala Y (unit).
+- Legend tren interaktif (klik nama jenis untuk menyembunyikan seri); garis terputus
+  pada tahun tanpa nilai (Posyandu 2019 tidak digambar sebagai 0). Tren memakai
+  **small multiples**: satu panel per jenis dengan skala Y sendiri, karena rasio
+  magnitudo antar jenis mencapai ±770:1 (Posyandu ±54.000 vs RS Khusus ±70) sehingga
+  satu skala bersama membuat semua jenis selain Posyandu menempel di nol. Yang
+  dibandingkan adalah bentuk tren, bukan tinggi antar panel.
 - Peta: hover tooltip rinci, klik wilayah = set filter kabupaten, legend skala
   biru + kategori "tanpa nilai valid (≠ 0)".
 - Peringkat: Top 5/10/Semua, tertinggi/terendah, tanda parsial.

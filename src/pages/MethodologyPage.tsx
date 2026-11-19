@@ -4,9 +4,9 @@ const MAPPING_ROWS = [
   {
     cbq: 'CBQ 1 — Bagaimana tren jumlah setiap jenis fasilitas kesehatan di Jawa Barat 2018–2024?',
     kpi: 'Total fasilitas per jenis × tahun (unit)',
-    idiom: 'Multi-series line chart',
+    idiom: 'Small multiples line chart (satu panel per jenis)',
     mark: 'Line + point',
-    magnitude: 'Position (sumbu Y)',
+    magnitude: 'Position (sumbu Y, skala per panel)',
     identity: 'Color hue (jenis) · Position X (tahun)',
     why: 'Discover/Compare — melihat pola kenaikan/penurunan antar tahun (Munzner Why: discover distribution/trend)',
     viz: 'TrendChart',
