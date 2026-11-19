@@ -66,6 +66,43 @@ function GrowthTooltip({ active, payload }: GrowthTooltipProps) {
   )
 }
 
+interface GrowthLabelProps {
+  viewBox?: { x?: number; y?: number; width?: number; height?: number }
+  value?: number | string | null
+}
+
+/** Label nilai: di dalam batang bila muat, di luar ujung batang bila tidak. */
+function GrowthValueLabel({ viewBox, value }: GrowthLabelProps) {
+  const v = Number(value ?? 0)
+  if (!viewBox || !Number.isFinite(v)) return null
+  const { x = 0, y = 0, width = 0, height = 0 } = viewBox
+  // pada batang negatif recharts memberi width negatif; normalkan ke kiri/kanan
+  const left = Math.min(x, x + width)
+  const right = Math.max(x, x + width)
+  const negative = v < 0
+  const text = `${v > 0 ? '+' : ''}${formatPct(v)}`
+  // perkiraan lebar teks @ fontSize 10 + padding kiri-kanan di dalam batang
+  const fitsInside = Math.abs(width) >= text.length * 5.6 + 14
+  return (
+    <text
+      x={fitsInside ? left + 6 : negative ? left - 6 : right + 6}
+      y={y + height / 2}
+      textAnchor={fitsInside ? 'start' : negative ? 'end' : 'start'}
+      dominantBaseline="middle"
+      fontSize={10}
+      fill={fitsInside ? '#ffffff' : '#475569'}
+    >
+      {text}
+    </text>
+  )
+}
+
+/** Batas absolut "bulat" untuk domain diverging simetris. */
+function niceBound(maxAbs: number): number {
+  const steps = [5, 10, 20, 25, 50, 75, 100, 150, 200, 250, 500, 1000]
+  return steps.find((s) => s >= maxAbs) ?? Math.ceil(maxAbs / 100) * 100
+}
+
 /**
  * CBQ 3 — Diverging bar chart pertumbuhan relatif 2018–2024 per jenis fasilitas.
  * Baseline 0%; hanya kombinasi yang layak (N2018>0, kedua periode lengkap) yang digambar.
@@ -76,7 +113,9 @@ export function GrowthChart() {
   const { feasible, na } = useMemo(() => {
     const entries = growthForScope(growthRows)
     return {
-      feasible: entries.filter((e) => e.feasible),
+      feasible: entries
+        .filter((e) => e.feasible)
+        .sort((a, b) => (b.pctChange ?? 0) - (a.pctChange ?? 0)),
       na: entries.filter((e) => !e.feasible),
     }
   }, [growthRows])
@@ -87,6 +126,14 @@ export function GrowthChart() {
 
   const data = feasible.map((e) => ({ ...e, pct: e.pctChange ?? 0 }))
 
+  // domain simetris: sisi positif & negatif harus berskala sama
+  const bound = niceBound(Math.max(1, ...data.map((d) => Math.abs(d.pct))))
+  const domain: [number, number] = [-bound * 1.1, bound * 1.1]
+  const half = bound / 2
+  const ticks = Number.isInteger(half)
+    ? [-bound, -half, 0, half, bound]
+    : [-bound, 0, bound]
+
   return (
     <div>
       <div style={{ height: Math.max(160, feasible.length * 44 + 40) }}>
@@ -95,14 +142,16 @@ export function GrowthChart() {
             <BarChart
               data={data}
               layout="vertical"
-              margin={{ top: 4, right: 64, bottom: 4, left: 8 }}
+              margin={{ top: 4, right: 72, bottom: 4, left: 8 }}
             >
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" horizontal={false} />
               <XAxis
                 type="number"
+                domain={domain}
+                ticks={ticks}
                 tick={{ fontSize: 11 }}
                 tickLine={false}
-                tickFormatter={(v: number) => `${v}%`}
+                tickFormatter={(v: number) => `${Math.round(v)}%`}
               />
               <YAxis
                 type="category"
@@ -113,24 +162,47 @@ export function GrowthChart() {
                 width={92}
               />
               <ReTooltip content={<GrowthTooltip />} />
-              <ReferenceLine x={0} stroke="#334155" />
-              <Bar dataKey="pct" barSize={20} radius={[0, 3, 3, 0]}>
+              <ReferenceLine x={0} stroke="#334155" strokeWidth={1} />
+              <Bar
+                dataKey="pct"
+                barSize={20}
+                radius={[3, 3, 3, 3]}
+                minPointSize={() => 5}
+              >
                 {data.map((e) => (
                   <Cell
                     key={e.key}
-                    fill={(e.pct ?? 0) >= 0 ? '#16a34a' : '#dc2626'}
+                    fill={
+                      e.pct > 0 ? '#16a34a' : e.pct < 0 ? '#dc2626' : '#94a3b8'
+                    }
+                    fillOpacity={e.baseIncomplete || e.endIncomplete ? 0.6 : 1}
                   />
                 ))}
-                <LabelList
-                  dataKey="pct"
-                  position="right"
-                  formatter={(v) => `${Number(v) > 0 ? '+' : ''}${Number(v).toFixed(1)}%`}
-                  style={{ fontSize: 10, fill: '#475569' }}
-                />
+                <LabelList dataKey="pct" content={<GrowthValueLabel />} />
               </Bar>
             </BarChart>
           </ResponsiveContainer>
         )}
+      </div>
+
+      <div className="mt-1 flex flex-wrap items-center gap-3 text-[10px] text-slate-400">
+        <span className="flex items-center gap-1.5">
+          <span className="inline-block h-2.5 w-2.5 rounded-sm bg-green-600" /> pertumbuhan (+)
+        </span>
+        <span className="flex items-center gap-1.5">
+          <span className="inline-block h-2.5 w-2.5 rounded-sm bg-red-600" /> penurunan (−)
+        </span>
+        <span className="flex items-center gap-1.5">
+          <span className="inline-block h-2.5 w-2.5 rounded-sm bg-slate-400" /> tetap (0%)
+        </span>
+        <span className="flex items-center gap-1.5">
+          <span className="inline-block h-2.5 w-2.5 rounded-sm bg-green-600 opacity-60" /> nilai
+          parsial
+        </span>
+        <span className="flex items-center gap-1.5">
+          <span className="inline-block h-2.5 w-1 rounded-sm bg-slate-300" /> batang &lt; 5px
+          diperbesar
+        </span>
       </div>
 
       {na.length > 0 && (
